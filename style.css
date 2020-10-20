@@ -1,0 +1,96 @@
+.topfirst{
+    text-align: center;
+    background-color: blue;
+}
+
+
+ul{
+
+    font-size: 15px;
+}
+
+
+
+.col-md-4 h4{
+    font-size: 20px;
+}
+
+.col-md-4 h4 p{
+    font-size: 15px;
+    
+}
+.copyrigh p{
+    font-size: 12px;
+    text-align: center;
+}
+#reserve{
+    width: 78%;
+}
+.carousel {
+    background:#512DA8;
+}
+
+.carousel-item {
+  height: 300px;
+}
+
+.carousel-item img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    min-height: 300px;
+}
+#carouselButton{
+    position: absolute;
+    bottom: 0;
+    right: 0;
+}
+.modal-header{
+    background-color: #512DA8;
+}
+.modal-body{
+    background-color: #bbaee8;
+}
+
+/*
+@media(max-width:786px){
+    .media p{
+        display: none;
+    }
+    .media h5{
+        font-size: 2rem;
+        margin: 0;
+        padding: 0;
+    }
+    #fu p{
+        font-size: 2rem;
+        margin: 0;
+        padding: 0;
+    }
+    .media img{
+        width: 70px;
+        height: 70px;
+
+    }
+    .ul{
+        width: 50%;
+    }
+    .col-md-1{
+        width: 8.33%;
+    }
+    .table-2{
+        width: 50%;
+    }
+
+    .top-second{
+        width:50% ;
+    }
+    .btn-size{
+        width: 80%;
+    }
+    .brand{
+        text-align: start;
+    }
+
+}
+*/
